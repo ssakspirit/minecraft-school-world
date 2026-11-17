@@ -1,0 +1,4 @@
+*.mcworld
+*.mcpack
+*.zip
+dist/

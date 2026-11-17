@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "새학기 학교 교사용 도구",
+    "description": "번호·투표·자리 뽑기·퀴즈·수업 관리 함수 (/function help)",
+    "uuid": "b94670b7-b7cc-4ef6-ab55-fac164705d92",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "994f6ea4-d59f-494b-bfa5-511f7c9e76a3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
